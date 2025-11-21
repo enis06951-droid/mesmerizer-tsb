@@ -1,0 +1,5 @@
+local gameid = game.PlaceId
+
+if gameid == 10449761463 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/enis06951-droid/mesmerizer-tsb/refs/heads/main/tsbg"))()
+end
