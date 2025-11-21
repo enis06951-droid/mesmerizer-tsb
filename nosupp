@@ -1,0 +1,5 @@
+local gameid = game.PlaceId
+
+if gameid == 518575 then
+    print("not supported")
+end
